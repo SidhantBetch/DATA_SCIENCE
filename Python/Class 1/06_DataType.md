@@ -12,7 +12,7 @@ Stores whole numbers.
     x = 10
     y = -5
 
-###2. Float
+### 2. Float
 Stores decimal numbers.
 
 #### Example:
