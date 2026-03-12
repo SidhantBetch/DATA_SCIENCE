@@ -47,3 +47,33 @@ If there is an error on line 5, the interpreter stops there and shows the error.
 ### Advantages
 - Easier debugging
 - Good for scripting and testing
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+# Memory
+Memory in programming is the storage area in a computer where data and programs are stored so the CPU can use them.  
+When we create variables or run programs, the computer stores the data in memory.
+
+### Example in Python
+    x = 10
+    name = "Kimi"
+Here:
+- x is stored in memory with value 10
+- name is stored in memory with value "Kimi"
+- So memory keeps the data of variables while the program is running.
+
+## Types of Memory (Basic Idea)
+### 1. RAM (Random Access Memory)
+- Temporary memory
+- Stores data while the program is running
+- Data is lost when the computer is turned off
+
+### 2. ROM (Read Only Memory)
+- Permanent memory
+- Stores important system instructions
+
+## Memory Example (Simple View)
+Variable    | Value
+------------|----------
+x           | 10
+name        | Kimi
+
