@@ -47,8 +47,19 @@ An outlier is a data point that is significantly different from the rest of the 
 Data: 10, 12, 13, 15, 200
 ##### 👉 200 is an outlier because it is far away from other values.
 
+
 ## 📊 IQR
 IQR is a measure of how spread out the middle 50% of data is.
+
+      outliwea                      |----------IQR------- --|                          outlier
+        ^                           |----------||-----------|                           ^
+        |  |                        |          ||           |                        |  |
+        0 0|------------------------|          ||           |------------------------|0 0
+           |                        |          ||           |                        |
+    "minimum"                       |          ||           |                        "Maximum"
+    (Q1 - 1.5*IQR)                  |----------||-----------|                      (Q3 + 1.5*IQR)
+                                    Q1        Median      Q3
+                                (25th percentile)        (75th percentile)
 
 ## 📌 Formula:
 
