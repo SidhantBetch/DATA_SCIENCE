@@ -19,9 +19,12 @@ example:
  30-40        |  12         |  13+12 = 25
  40-50        |  6          |  25+6 = 31
 
-## Types of Skewness
+## 🥈 Types of Skewness
 1. Negatively skewed
-   ![Garph]("C:\Users\2sidh\OneDrive\Pictures\Screenshots\Screenshot 2026-04-02 095709.png")
 2. Normal (no skew)
-4. Positively skew
+3. Positively skew
+
+
+![Graph](https://github.com/SidhantBetch/DATA_SCIENCE/blob/main/01_Data_Science_Maths_in-depth/02_Measure_Of_Central_Tendency/6_Measures_Of_Shape/Screenshot%202026-04-02%20095709.png)
+
 
