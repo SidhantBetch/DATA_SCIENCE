@@ -7,5 +7,5 @@
 # Correlation
 Correlation analysis is a method of statistical evaluation used to study the strength of a relationship between two, numerically measured, continuous variables.
 
-##$Correlation = \frac{Cov(x,y)}{\sigma x * \sigma y}$
+## $Correlation = \frac{Cov(x,y)}{\sigma x * \sigma y}$
 
