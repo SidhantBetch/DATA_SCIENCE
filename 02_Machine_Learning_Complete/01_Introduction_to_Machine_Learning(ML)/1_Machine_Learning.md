@@ -45,7 +45,7 @@ and whenever it receives new data, predicts the output for it.
 
 -------------------------------------------------------------------------------------------------------------------------------
 
-# 💻 what we need to learn Machine Learning Roll Map 
+# 💻 what we need to learn Machine Learning (Roll Map)
 - Programming language- Python, R
 - Exploratory Data Analysis
 - Feature Engineering
