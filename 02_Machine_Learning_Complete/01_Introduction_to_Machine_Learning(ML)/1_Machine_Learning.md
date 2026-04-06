@@ -1,8 +1,8 @@
-# What is Machine Learning ❓
+# 🎰 What is Machine Learning ❓
 Machine Learning is the science of getting computers to learn and act like humans do, and improve their learning over time 
 in autonomous fashion, by feeding them data and information in the form of observations and real world interactions.
 
-## How Does Machine Learning Work?
+## 📘 How Does Machine Learning Work?
 A Machine Learning system learns from historial data, builds the prediction models,
 and whenever it receives new data, predicts the output for it.  
 
@@ -12,25 +12,25 @@ and whenever it receives new data, predicts the output for it.
                                                               |
                             Learn form data                 New data
 
-## Classifications of Machine Learrning
+## 🏛️ Classifications of Machine Learrning
 1. Supervised Learning
 2. Unsupervised Learning
 3. Reinforcement Learning
 
-## Advantages of Machine Learning
+## 🉐 Advantages of Machine Learning
 - Easily identifies trends and patterns
 - No human intervention needed(automation)
 - Continuous improvement
 - Handling multi-dimensional and multi-variety data
 - wide Applications
 
-## Disadvantages of Machine Learning
+## 😞 Disadvantages of Machine Learning
   - Data Acquisition
   - Time and Resources
   - Interpretation of Results
   - High error-susceptibility
  
- ## Use of Machine Learning
+ ## 🖥️ Use of Machine Learning
  - Automatic Language Translation
  - Medical Diagnosis
  - Stock Market trading
