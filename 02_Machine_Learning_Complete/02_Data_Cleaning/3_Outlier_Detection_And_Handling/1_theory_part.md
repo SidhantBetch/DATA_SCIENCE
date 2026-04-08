@@ -14,12 +14,16 @@ Outliers can:
 Models like:
 - Linear Regression
   are highly sensitive to outliers
+
+-------------------------------------------------------------------------------------------------------------------------
   
 ## 🔎 Types of Outliers
 1. Global Outliers → Extreme compared to whole dataset
 2. Contextual Outliers → Abnormal in specific context
 3. Collective Outliers → Group behaving abnormally
 
+-------------------------------------------------------------------------------------------------------------------------
+  
 ## 🔍 Methods to Detect Outliers
 ### 1️⃣ Z-Score Method (Statistical ⚡)
 Uses standard deviation
@@ -48,6 +52,8 @@ lower = dataset["Age"].quantile(0.01)
 upper = dataset["Age"].quantile(0.99)
 ```
 
+-------------------------------------------------------------------------------------------------------------------------
+  
 ## ⚙️ How to Handle Outliers
 ### 1️⃣ Remove Outliers ❌
 ```python
@@ -86,6 +92,8 @@ Some models handle outliers well:
 - Random Forest
 
 
+-------------------------------------------------------------------------------------------------------------------------
+  
 ## ⚠️ When NOT to Remove Outliers
 ### 👉 Important cases:
 - Fraud detection
