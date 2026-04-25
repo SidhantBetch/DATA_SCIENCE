@@ -12,9 +12,7 @@ Association Learning is an **unsupervised machine learning technique** used to d
 
 General form:
 
-$$
-A \Rightarrow B
-##
+$A \Rightarrow B$
 
 👉 Meaning:
 If item **A** is present, item **B** is likely to be present.
@@ -28,9 +26,7 @@ If customers buy:
 * Bread → also buy Butter
 
 Rule:
-$$
-Bread \Rightarrow Butter
-$$
+$Bread \Rightarrow Butter$
 
 ---
 
